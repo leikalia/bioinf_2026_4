@@ -1,0 +1,51 @@
+original_id	variant_id	clinvar_status	variation_id	vcv_accession	clinvar_classification	classification_type	germline_classification	variant_names	clinvar_genes	review_status	last_evaluated	conditions	contributing_assertions	match_rule	clinvar_url
+rs10576	21-25592860-T-C	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs7278168	21-25603910-C-T	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs3989369	21-25606638-A-G	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs61735760	21-25607440-C-T	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs9808753	21-33415005-A-G	found	1169473	VCV001169473.16	Benign/Likely benign	GermlineClassification	Benign/Likely benign	NM_005534.4(IFNGR2):c.191A>G (p.Gln64Arg)	IFNGR2	criteria provided, multiple submitters, no conflicts	2026-02-04	Immunodeficiency 28;not provided;not specified	Benign;Likely benign	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/1169473/
+rs115458101	21-33432763-G-A	found	749643	VCV000749643.10	Likely benign	GermlineClassification	Likely benign	NM_005534.4(IFNGR2):c.771G>A (p.Ser257=)	IFNGR2;TMEM50B	criteria provided, single submitter	2025-04-01	Immunodeficiency 28	Likely benign	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/749643/
+rs73901833	21-37067340-T-C	found	709521	VCV000709521.10	Benign	GermlineClassification	Benign	NM_153682.3(PIGP):c.196A>G (p.Ile66Val)	PIGP	criteria provided, single submitter	2026-02-02	not provided	Benign	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/709521/
+rs2507733	21-37072563-T-C	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs116698978	21-38818580-G-A	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs457705	21-38819507-T-G	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs113417859	21-38819624-C-T	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs461155	21-38819714-A-G	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs61737061	21-43094699-G-A	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs75532875	21-43969159-C-T	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs115875072	21-43969246-G-A	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs114573236	21-43982389-A-G	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs34000365	22-19353405-G-A	found	714835	VCV000714835.7	Benign	GermlineClassification	Benign	NM_003325.4(HIRA):c.2799C>T (p.His933=)	HIRA	criteria provided, multiple submitters, no conflicts	2019-12-31	HIRA-related disorder;not provided	Benign	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/714835/
+rs115157927	22-19385577-A-T	found	3525634	VCV003525634.1	Uncertain significance	GermlineClassification	Uncertain significance	NM_003325.4(HIRA):c.1273T>A (p.Ser425Thr)	HIRA	criteria provided, single submitter	2024-10-08	not specified	Uncertain significance	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/3525634/
+rs9618556	22-19396832-C-T	found	710905	VCV000710905.30	Benign/Likely benign	GermlineClassification	Benign/Likely benign	NM_003325.4(HIRA):c.609G>A (p.Thr203=)	HIRA	criteria provided, multiple submitters, no conflicts	2024-11-21	HIRA-related disorder;not provided;not specified	Benign;Likely benign	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/710905/
+rs115736959	22-19973143-G-A	found	789863	VCV000789863.3	Benign	GermlineClassification	Benign	NM_001670.3(ARVCF):c.2414C>T (p.Ala805Val)	ARVCF	criteria provided, single submitter	2018-07-04	not provided	Benign	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/789863/
+rs74544696	22-19979957-C-G	found	1180930	VCV001180930.3	Benign	GermlineClassification	Benign	NM_001670.3(ARVCF):c.1182G>C (p.Arg394=)	ARVCF	criteria provided, multiple submitters, no conflicts	2021-05-05	not provided	Benign	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/1180930/
+rs1058399	22-19980020-G-A	found	1290187	VCV001290187.3	Benign	GermlineClassification	Benign	NM_001670.3(ARVCF):c.1119C>T (p.Pro373=)	ARVCF	criteria provided, multiple submitters, no conflicts	2021-05-05	not provided	Benign	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/1290187/
+rs2073748	22-19981448-G-A	found	1288334	VCV001288334.2	Benign	GermlineClassification	Benign	NM_001670.3(ARVCF):c.659C>T (p.Pro220Leu)	ARVCF	criteria provided, multiple submitters, no conflicts	2021-05-04	not provided	Benign	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/1288334/
+rs2073747	22-19981552-A-G	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs33992092	22-19981972-G-T	found	777061	VCV000777061.6	Benign	GermlineClassification	Benign	NM_001670.3(ARVCF):c.330C>A (p.Val110=)	ARVCF	criteria provided, multiple submitters, no conflicts	2021-05-04	not provided	Benign	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/777061/
+rs115663049	22-21963972-G-A	found	4456431	VCV004456431.1	evidence_only	NoClassification	NA	NM_001282112.2(TOP3B):c.1155C>T (p.Gly385=)	TOP3B	no classification provided	NA	Uterine corpus endometrial carcinoma	NA	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/4456431/
+rs115006916	22-23160895-A-T	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs115180746	22-24184189-C-G	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs116768581	22-24185897-A-G	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs74558263	22-24188053-C-T	found	777671	VCV000777671.4	Benign	GermlineClassification	Benign	NM_019601.4(SUSD2):c.2259C>T (p.Asn753=)	SUSD2	criteria provided, multiple submitters, no conflicts	2018-05-21	not provided	Benign	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/777671/
+rs114880151	22-30264324-G-C	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs5753130	22-30427209-T-C	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs5749104	22-30461461-A-G	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs112070427	22-30555895-G-A	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs113930388	22-31089937-C-T	found	712286	VCV000712286.4	Benign	GermlineClassification	Benign	NM_134269.3(SMTN):c.710C>T (p.Pro237Leu)	SMTN	criteria provided, multiple submitters, no conflicts	2018-09-11	not provided	Benign	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/712286/
+rs5997872	22-31095346-C-T	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs2228619	22-31267856-C-G	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs114531016	22-31267889-G-A	found	769162	VCV000769162.4	Benign	GermlineClassification	Benign	NM_005569.4(LIMK2):c.1242G>A (p.Lys414=)	LIMK2	criteria provided, multiple submitters, no conflicts	2018-05-31	not provided	Benign	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/769162/
+rs79923828	22-31278313-T-C	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs59349720	22-33650466-G-A	found	95174	VCV000095174.27	Benign/Likely benign	GermlineClassification	Benign/Likely benign	NM_133642.5(LARGE1):c.309C>T (p.Ser103=)	LARGE1	criteria provided, multiple submitters, no conflicts	2026-02-01	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6;Muscular dystrophy-dystroglycanopathy type B6;not provided;not specified	Benign;Likely benign;benign	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/95174/
+rs6001200	22-38699844-G-C	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs114180421	22-38699942-A-G	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs5750728	22-39044144-C-T	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs114704208	22-39044171-A-T	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs114948690	22-39743860-A-G	found	4249268	VCV004249268.1	Uncertain significance	GermlineClassification	Uncertain significance	NM_152512.4(ENTHD1):c.1643T>C (p.Ile548Thr)	ENTHD1	criteria provided, single submitter	2025-08-11	not specified	Uncertain significance	GRCh38+CHROM+POS+REF+ALT	https://www.ncbi.nlm.nih.gov/clinvar/variation/4249268/
+rs114600441	22-39744186-T-C	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs116765273	22-39835855-A-G	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs114714334	22-39861847-C-T	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs5995794	22-40021816-A-G	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA
+rs114043304	22-44920488-A-G	not_found	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	GRCh38+CHROM+POS+REF+ALT	NA

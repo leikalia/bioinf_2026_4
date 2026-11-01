@@ -1,0 +1,1071 @@
+[
+  {
+    "original_id": "rs10576",
+    "variant_id": "21-25592860-T-C",
+    "records": []
+  },
+  {
+    "original_id": "rs7278168",
+    "variant_id": "21-25603910-C-T",
+    "records": []
+  },
+  {
+    "original_id": "rs3989369",
+    "variant_id": "21-25606638-A-G",
+    "records": []
+  },
+  {
+    "original_id": "rs61735760",
+    "variant_id": "21-25607440-C-T",
+    "records": []
+  },
+  {
+    "original_id": "rs9808753",
+    "variant_id": "21-33415005-A-G",
+    "records": [
+      {
+        "variation_id": "1169473",
+        "vcv_accession": "VCV001169473.16",
+        "name": "NM_005534.4(IFNGR2):c.191A>G (p.Gln64Arg)",
+        "last_updated": "2026-09-27",
+        "genes": [
+          "IFNGR2"
+        ],
+        "classification": "Benign/Likely benign",
+        "classification_type": "GermlineClassification",
+        "germline_classification": "Benign/Likely benign",
+        "all_classifications": {
+          "GermlineClassification": {
+            "description": "Benign/Likely benign",
+            "review_status": "criteria provided, multiple submitters, no conflicts"
+          }
+        },
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "last_evaluated": "2026-02-04",
+        "conditions": [
+          "Immunodeficiency 28",
+          "not provided",
+          "not specified"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV001887884",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2021-06-09",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV001933276",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2021-08-10",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV005307736",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": null,
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV004234050",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2024-01-24",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV001729971",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2026-02-04",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV007876411",
+            "contributes_to_aggregate": "true",
+            "classification": "Likely benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2024-11-28",
+            "functional_evidence": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs115458101",
+    "variant_id": "21-33432763-G-A",
+    "records": [
+      {
+        "variation_id": "749643",
+        "vcv_accession": "VCV000749643.10",
+        "name": "NM_005534.4(IFNGR2):c.771G>A (p.Ser257=)",
+        "last_updated": "2026-02-15",
+        "genes": [
+          "IFNGR2",
+          "TMEM50B"
+        ],
+        "classification": "Likely benign",
+        "classification_type": "GermlineClassification",
+        "germline_classification": "Likely benign",
+        "all_classifications": {
+          "GermlineClassification": {
+            "description": "Likely benign",
+            "review_status": "criteria provided, single submitter"
+          }
+        },
+        "review_status": "criteria provided, single submitter",
+        "last_evaluated": "2025-04-01",
+        "conditions": [
+          "Immunodeficiency 28"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV001072106",
+            "contributes_to_aggregate": "true",
+            "classification": "Likely benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2025-04-01",
+            "functional_evidence": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs73901833",
+    "variant_id": "21-37067340-T-C",
+    "records": [
+      {
+        "variation_id": "709521",
+        "vcv_accession": "VCV000709521.10",
+        "name": "NM_153682.3(PIGP):c.196A>G (p.Ile66Val)",
+        "last_updated": "2026-03-08",
+        "genes": [
+          "PIGP"
+        ],
+        "classification": "Benign",
+        "classification_type": "GermlineClassification",
+        "germline_classification": "Benign",
+        "all_classifications": {
+          "GermlineClassification": {
+            "description": "Benign",
+            "review_status": "criteria provided, single submitter"
+          }
+        },
+        "review_status": "criteria provided, single submitter",
+        "last_evaluated": "2026-02-02",
+        "conditions": [
+          "not provided"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV001024073",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2026-02-02",
+            "functional_evidence": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs2507733",
+    "variant_id": "21-37072563-T-C",
+    "records": []
+  },
+  {
+    "original_id": "rs116698978",
+    "variant_id": "21-38818580-G-A",
+    "records": []
+  },
+  {
+    "original_id": "rs457705",
+    "variant_id": "21-38819507-T-G",
+    "records": []
+  },
+  {
+    "original_id": "rs113417859",
+    "variant_id": "21-38819624-C-T",
+    "records": []
+  },
+  {
+    "original_id": "rs461155",
+    "variant_id": "21-38819714-A-G",
+    "records": []
+  },
+  {
+    "original_id": "rs61737061",
+    "variant_id": "21-43094699-G-A",
+    "records": []
+  },
+  {
+    "original_id": "rs75532875",
+    "variant_id": "21-43969159-C-T",
+    "records": []
+  },
+  {
+    "original_id": "rs115875072",
+    "variant_id": "21-43969246-G-A",
+    "records": []
+  },
+  {
+    "original_id": "rs114573236",
+    "variant_id": "21-43982389-A-G",
+    "records": []
+  },
+  {
+    "original_id": "rs34000365",
+    "variant_id": "22-19353405-G-A",
+    "records": [
+      {
+        "variation_id": "714835",
+        "vcv_accession": "VCV000714835.7",
+        "name": "NM_003325.4(HIRA):c.2799C>T (p.His933=)",
+        "last_updated": "2025-05-17",
+        "genes": [
+          "HIRA"
+        ],
+        "classification": "Benign",
+        "classification_type": "GermlineClassification",
+        "germline_classification": "Benign",
+        "all_classifications": {
+          "GermlineClassification": {
+            "description": "Benign",
+            "review_status": "criteria provided, multiple submitters, no conflicts"
+          }
+        },
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "last_evaluated": "2019-12-31",
+        "conditions": [
+          "not provided",
+          "HIRA-related disorder"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV001030757",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2019-12-31",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV004723967",
+            "contributes_to_aggregate": "false",
+            "classification": "Benign",
+            "review_status": "no assertion criteria provided",
+            "last_evaluated": "2019-03-26",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV005275193",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": null,
+            "functional_evidence": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs115157927",
+    "variant_id": "22-19385577-A-T",
+    "records": [
+      {
+        "variation_id": "3525634",
+        "vcv_accession": "VCV003525634.1",
+        "name": "NM_003325.4(HIRA):c.1273T>A (p.Ser425Thr)",
+        "last_updated": "2025-01-19",
+        "genes": [
+          "HIRA"
+        ],
+        "classification": "Uncertain significance",
+        "classification_type": "GermlineClassification",
+        "germline_classification": "Uncertain significance",
+        "all_classifications": {
+          "GermlineClassification": {
+            "description": "Uncertain significance",
+            "review_status": "criteria provided, single submitter"
+          }
+        },
+        "review_status": "criteria provided, single submitter",
+        "last_evaluated": "2024-10-08",
+        "conditions": [
+          "not specified"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV005599542",
+            "contributes_to_aggregate": "true",
+            "classification": "Uncertain significance",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2024-10-08",
+            "functional_evidence": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs9618556",
+    "variant_id": "22-19396832-C-T",
+    "records": [
+      {
+        "variation_id": "710905",
+        "vcv_accession": "VCV000710905.30",
+        "name": "NM_003325.4(HIRA):c.609G>A (p.Thr203=)",
+        "last_updated": "2026-09-27",
+        "genes": [
+          "HIRA"
+        ],
+        "classification": "Benign/Likely benign",
+        "classification_type": "GermlineClassification",
+        "germline_classification": "Benign/Likely benign",
+        "all_classifications": {
+          "GermlineClassification": {
+            "description": "Benign/Likely benign",
+            "review_status": "criteria provided, multiple submitters, no conflicts"
+          }
+        },
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "last_evaluated": "2024-11-21",
+        "conditions": [
+          "not provided",
+          "HIRA-related disorder",
+          "not specified"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV001025825",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2019-12-31",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV004740545",
+            "contributes_to_aggregate": "false",
+            "classification": "Benign",
+            "review_status": "no assertion criteria provided",
+            "last_evaluated": "2019-06-07",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV004152102",
+            "contributes_to_aggregate": "true",
+            "classification": "Likely benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2022-12-01",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV005275209",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": null,
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV007882821",
+            "contributes_to_aggregate": "true",
+            "classification": "Likely benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2024-11-21",
+            "functional_evidence": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs115736959",
+    "variant_id": "22-19973143-G-A",
+    "records": [
+      {
+        "variation_id": "789863",
+        "vcv_accession": "VCV000789863.3",
+        "name": "NM_001670.3(ARVCF):c.2414C>T (p.Ala805Val)",
+        "last_updated": "2025-05-17",
+        "genes": [
+          "ARVCF"
+        ],
+        "classification": "Benign",
+        "classification_type": "GermlineClassification",
+        "germline_classification": "Benign",
+        "all_classifications": {
+          "GermlineClassification": {
+            "description": "Benign",
+            "review_status": "criteria provided, single submitter"
+          }
+        },
+        "review_status": "criteria provided, single submitter",
+        "last_evaluated": "2018-07-04",
+        "conditions": [
+          "not provided"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV001120283",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2018-07-04",
+            "functional_evidence": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs74544696",
+    "variant_id": "22-19979957-C-G",
+    "records": [
+      {
+        "variation_id": "1180930",
+        "vcv_accession": "VCV001180930.3",
+        "name": "NM_001670.3(ARVCF):c.1182G>C (p.Arg394=)",
+        "last_updated": "2025-05-17",
+        "genes": [
+          "ARVCF"
+        ],
+        "classification": "Benign",
+        "classification_type": "GermlineClassification",
+        "germline_classification": "Benign",
+        "all_classifications": {
+          "GermlineClassification": {
+            "description": "Benign",
+            "review_status": "criteria provided, multiple submitters, no conflicts"
+          }
+        },
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "last_evaluated": "2021-05-05",
+        "conditions": [
+          "not provided"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV001755784",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2021-05-05",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV005275388",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": null,
+            "functional_evidence": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs1058399",
+    "variant_id": "22-19980020-G-A",
+    "records": [
+      {
+        "variation_id": "1290187",
+        "vcv_accession": "VCV001290187.3",
+        "name": "NM_001670.3(ARVCF):c.1119C>T (p.Pro373=)",
+        "last_updated": "2025-05-17",
+        "genes": [
+          "ARVCF"
+        ],
+        "classification": "Benign",
+        "classification_type": "GermlineClassification",
+        "germline_classification": "Benign",
+        "all_classifications": {
+          "GermlineClassification": {
+            "description": "Benign",
+            "review_status": "criteria provided, multiple submitters, no conflicts"
+          }
+        },
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "last_evaluated": "2021-05-05",
+        "conditions": [
+          "not provided"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV001939101",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2021-05-05",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV005275389",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": null,
+            "functional_evidence": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs2073748",
+    "variant_id": "22-19981448-G-A",
+    "records": [
+      {
+        "variation_id": "1288334",
+        "vcv_accession": "VCV001288334.2",
+        "name": "NM_001670.3(ARVCF):c.659C>T (p.Pro220Leu)",
+        "last_updated": "2025-05-17",
+        "genes": [
+          "ARVCF"
+        ],
+        "classification": "Benign",
+        "classification_type": "GermlineClassification",
+        "germline_classification": "Benign",
+        "all_classifications": {
+          "GermlineClassification": {
+            "description": "Benign",
+            "review_status": "criteria provided, multiple submitters, no conflicts"
+          }
+        },
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "last_evaluated": "2021-05-04",
+        "conditions": [
+          "not provided"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV001936313",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2021-05-04",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV005275396",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": null,
+            "functional_evidence": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs2073747",
+    "variant_id": "22-19981552-A-G",
+    "records": []
+  },
+  {
+    "original_id": "rs33992092",
+    "variant_id": "22-19981972-G-T",
+    "records": [
+      {
+        "variation_id": "777061",
+        "vcv_accession": "VCV000777061.6",
+        "name": "NM_001670.3(ARVCF):c.330C>A (p.Val110=)",
+        "last_updated": "2024-09-29",
+        "genes": [
+          "ARVCF"
+        ],
+        "classification": "Benign",
+        "classification_type": "GermlineClassification",
+        "germline_classification": "Benign",
+        "all_classifications": {
+          "GermlineClassification": {
+            "description": "Benign",
+            "review_status": "criteria provided, multiple submitters, no conflicts"
+          }
+        },
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "last_evaluated": "2021-05-04",
+        "conditions": [
+          "not provided"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV001104273",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2018-07-07",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV001756559",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2021-05-04",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV005275401",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": null,
+            "functional_evidence": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs115663049",
+    "variant_id": "22-21963972-G-A",
+    "records": [
+      {
+        "variation_id": "4456431",
+        "vcv_accession": "VCV004456431.1",
+        "name": "NM_001282112.2(TOP3B):c.1155C>T (p.Gly385=)",
+        "last_updated": "2025-11-02",
+        "genes": [
+          "TOP3B"
+        ],
+        "classification": "evidence_only",
+        "classification_type": "NoClassification",
+        "germline_classification": null,
+        "all_classifications": {
+          "NoClassification": {
+            "description": "evidence_only",
+            "review_status": "no classification provided"
+          }
+        },
+        "review_status": "no classification provided",
+        "last_evaluated": null,
+        "conditions": [
+          "Uterine corpus endometrial carcinoma"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV006961737",
+            "contributes_to_aggregate": "false",
+            "classification": "evidence_only",
+            "review_status": "no classification provided",
+            "last_evaluated": null,
+            "functional_evidence": [
+              {
+                "effect": "functionally abnormal",
+                "consequences": [
+                  "retained intron"
+                ],
+                "comment": "Modifies an exonic cryptic donor site at NC_000022.10:g.22318345 from -4.24 to 2.79 bits. Significant p-values: junction spanning - intron inclusion (3 reads, p=0.0061). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an \"Alternate designation\". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) \"strongly corroborating Veridical p-value\" refers to \"junction-spanning\" evidence types; b) add the text \"and natural site < 300 nucleotides away?\" to \"Ri,final > nearest natural site Ri\"; c) \"Aberrant\" and \"Likely aberrant\" classifications are now both defined as \"Functionally abnormal\" (analogous to ACMG/AMP reporting); d) \"Allele-specific alternative splicing\" classification now defined as \"Function uncertain\" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs115006916",
+    "variant_id": "22-23160895-A-T",
+    "records": []
+  },
+  {
+    "original_id": "rs115180746",
+    "variant_id": "22-24184189-C-G",
+    "records": []
+  },
+  {
+    "original_id": "rs116768581",
+    "variant_id": "22-24185897-A-G",
+    "records": []
+  },
+  {
+    "original_id": "rs74558263",
+    "variant_id": "22-24188053-C-T",
+    "records": [
+      {
+        "variation_id": "777671",
+        "vcv_accession": "VCV000777671.4",
+        "name": "NM_019601.4(SUSD2):c.2259C>T (p.Asn753=)",
+        "last_updated": "2025-05-17",
+        "genes": [
+          "SUSD2"
+        ],
+        "classification": "Benign",
+        "classification_type": "GermlineClassification",
+        "germline_classification": "Benign",
+        "all_classifications": {
+          "GermlineClassification": {
+            "description": "Benign",
+            "review_status": "criteria provided, multiple submitters, no conflicts"
+          }
+        },
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "last_evaluated": "2018-05-21",
+        "conditions": [
+          "not provided"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV001105006",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2018-05-21",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV005278449",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": null,
+            "functional_evidence": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs114880151",
+    "variant_id": "22-30264324-G-C",
+    "records": []
+  },
+  {
+    "original_id": "rs5753130",
+    "variant_id": "22-30427209-T-C",
+    "records": []
+  },
+  {
+    "original_id": "rs5749104",
+    "variant_id": "22-30461461-A-G",
+    "records": []
+  },
+  {
+    "original_id": "rs112070427",
+    "variant_id": "22-30555895-G-A",
+    "records": []
+  },
+  {
+    "original_id": "rs113930388",
+    "variant_id": "22-31089937-C-T",
+    "records": [
+      {
+        "variation_id": "712286",
+        "vcv_accession": "VCV000712286.4",
+        "name": "NM_134269.3(SMTN):c.710C>T (p.Pro237Leu)",
+        "last_updated": "2025-05-17",
+        "genes": [
+          "SMTN"
+        ],
+        "classification": "Benign",
+        "classification_type": "GermlineClassification",
+        "germline_classification": "Benign",
+        "all_classifications": {
+          "GermlineClassification": {
+            "description": "Benign",
+            "review_status": "criteria provided, multiple submitters, no conflicts"
+          }
+        },
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "last_evaluated": "2018-09-11",
+        "conditions": [
+          "not provided"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV001027553",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2018-09-11",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV005275426",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": null,
+            "functional_evidence": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs5997872",
+    "variant_id": "22-31095346-C-T",
+    "records": []
+  },
+  {
+    "original_id": "rs2228619",
+    "variant_id": "22-31267856-C-G",
+    "records": []
+  },
+  {
+    "original_id": "rs114531016",
+    "variant_id": "22-31267889-G-A",
+    "records": [
+      {
+        "variation_id": "769162",
+        "vcv_accession": "VCV000769162.4",
+        "name": "NM_005569.4(LIMK2):c.1242G>A (p.Lys414=)",
+        "last_updated": "2025-05-17",
+        "genes": [
+          "LIMK2"
+        ],
+        "classification": "Benign",
+        "classification_type": "GermlineClassification",
+        "germline_classification": "Benign",
+        "all_classifications": {
+          "GermlineClassification": {
+            "description": "Benign",
+            "review_status": "criteria provided, multiple submitters, no conflicts"
+          }
+        },
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "last_evaluated": "2018-05-31",
+        "conditions": [
+          "not provided"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV001094326",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2018-05-31",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV005275430",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": null,
+            "functional_evidence": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs79923828",
+    "variant_id": "22-31278313-T-C",
+    "records": []
+  },
+  {
+    "original_id": "rs59349720",
+    "variant_id": "22-33650466-G-A",
+    "records": [
+      {
+        "variation_id": "95174",
+        "vcv_accession": "VCV000095174.27",
+        "name": "NM_133642.5(LARGE1):c.309C>T (p.Ser103=)",
+        "last_updated": "2026-04-13",
+        "genes": [
+          "LARGE1"
+        ],
+        "classification": "Benign/Likely benign",
+        "classification_type": "GermlineClassification",
+        "germline_classification": "Benign/Likely benign",
+        "all_classifications": {
+          "GermlineClassification": {
+            "description": "Benign/Likely benign",
+            "review_status": "criteria provided, multiple submitters, no conflicts"
+          }
+        },
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "last_evaluated": "2026-02-01",
+        "conditions": [
+          "not specified",
+          "Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6",
+          "Muscular dystrophy-dystroglycanopathy type B6",
+          "not provided"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV007298325",
+            "contributes_to_aggregate": "true",
+            "classification": "benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2024-12-23",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV000193514",
+            "contributes_to_aggregate": "false",
+            "classification": "Likely benign",
+            "review_status": "no assertion criteria provided",
+            "last_evaluated": null,
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV000310642",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": null,
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV000196852",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2014-06-25",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV005210394",
+            "contributes_to_aggregate": "true",
+            "classification": "Likely benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": null,
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV000113088",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2012-11-15",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV000638998",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2026-02-01",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV000438175",
+            "contributes_to_aggregate": "true",
+            "classification": "Likely benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2017-04-27",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV000438174",
+            "contributes_to_aggregate": "true",
+            "classification": "Likely benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2017-04-27",
+            "functional_evidence": []
+          },
+          {
+            "accession": "SCV007327621",
+            "contributes_to_aggregate": "true",
+            "classification": "Benign",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2018-05-23",
+            "functional_evidence": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs6001200",
+    "variant_id": "22-38699844-G-C",
+    "records": []
+  },
+  {
+    "original_id": "rs114180421",
+    "variant_id": "22-38699942-A-G",
+    "records": []
+  },
+  {
+    "original_id": "rs5750728",
+    "variant_id": "22-39044144-C-T",
+    "records": []
+  },
+  {
+    "original_id": "rs114704208",
+    "variant_id": "22-39044171-A-T",
+    "records": []
+  },
+  {
+    "original_id": "rs114948690",
+    "variant_id": "22-39743860-A-G",
+    "records": [
+      {
+        "variation_id": "4249268",
+        "vcv_accession": "VCV004249268.1",
+        "name": "NM_152512.4(ENTHD1):c.1643T>C (p.Ile548Thr)",
+        "last_updated": "2025-10-05",
+        "genes": [
+          "ENTHD1"
+        ],
+        "classification": "Uncertain significance",
+        "classification_type": "GermlineClassification",
+        "germline_classification": "Uncertain significance",
+        "all_classifications": {
+          "GermlineClassification": {
+            "description": "Uncertain significance",
+            "review_status": "criteria provided, single submitter"
+          }
+        },
+        "review_status": "criteria provided, single submitter",
+        "last_evaluated": "2025-08-11",
+        "conditions": [
+          "not specified"
+        ],
+        "assertions": [
+          {
+            "accession": "SCV006522429",
+            "contributes_to_aggregate": "true",
+            "classification": "Uncertain significance",
+            "review_status": "criteria provided, single submitter",
+            "last_evaluated": "2025-08-11",
+            "functional_evidence": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "original_id": "rs114600441",
+    "variant_id": "22-39744186-T-C",
+    "records": []
+  },
+  {
+    "original_id": "rs116765273",
+    "variant_id": "22-39835855-A-G",
+    "records": []
+  },
+  {
+    "original_id": "rs114714334",
+    "variant_id": "22-39861847-C-T",
+    "records": []
+  },
+  {
+    "original_id": "rs5995794",
+    "variant_id": "22-40021816-A-G",
+    "records": []
+  },
+  {
+    "original_id": "rs114043304",
+    "variant_id": "22-44920488-A-G",
+    "records": []
+  }
+]
